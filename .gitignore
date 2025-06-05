@@ -4,3 +4,4 @@
 crash.log
 terralab1/.terraform/*
 */.terraform/*
+bfg-1.14.0.jar
